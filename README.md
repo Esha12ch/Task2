@@ -38,3 +38,6 @@ Category--	Technology leads in both sales and profit. Furniture shows low profit
 Time--	Peak sales in Q4 due to seasonal trends.
 Discounts--	High discount levels often reduce profit. Moderate discounts are more sustainable.
 
+<img width="740" height="398" alt="image" src="https://github.com/user-attachments/assets/f6962322-3166-42f9-8b41-dbf9d1dba82e" />
+
+
